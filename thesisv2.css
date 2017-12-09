@@ -1,0 +1,51 @@
+body {
+	background-color: white;
+	color: black;
+  font-family: Univers, Helvetica, Arial;
+  font-size: 75px;
+	margin:40px 50px 50px 50px;
+	text-decoration: none;
+
+	z-index: 2;
+	letter-spacing: -1px;
+
+
+}
+
+.hide {
+
+
+	opacity:0;
+
+}
+
+.header {text-align: left;
+		font-size: 100px;
+		font-family: Univers, Helvetica, Arial;
+		padding: 0px;
+    font-weight: normal;
+		letter-spacing: 5px;
+		font-style: italic;
+		}
+
+.place {text-align: center;
+		font-size: 15px;
+		font-family: Univers, Helvetica, Arial;
+		padding: 20px;
+	}
+
+.place-footer {text-align: center;
+		font-size: 15px;
+		font-family: Univers, Helvetica, Arial;
+		padding: 20px;
+		}
+
+    a:link {
+        color: black;
+        text-decoration: none;
+    }
+
+    a:visited {
+        color: black;
+
+    }
