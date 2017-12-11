@@ -19,7 +19,7 @@ body {
 
 }
 .header {text-align: left;
-		font-size: 100px;
+		font-size: 75PX;
 		font-family: Univers, Helvetica, Arial;
 		padding: 0px;
     font-weight: normal;
@@ -29,7 +29,7 @@ body {
 		}
 
 		.paragraph1 {text-align: left;
-				font-size: 100px;
+				font-size: 75PX;
 				font-family: Univers, Helvetica, Arial;
 				padding: 0px;
 		    font-weight: normal;
